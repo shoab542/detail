@@ -1,0 +1,35 @@
+.jarallax {
+  /*position: relative;*/
+  /*z-index: 0;*/
+  background-size: cover;
+}
+
+@media (min-width: 992px) {
+  .portfolio-item img {
+  }
+}
+
+@media (max-width: 576px) {
+  .portfolio-item img {
+    filter: blur(2px);
+  }
+}
+
+@media (max-width: 576px) {
+  .portfolio-item img {
+    filter: blur(4px);
+  }
+}
+
+@media (max-width: 576px) {
+  .portfolio-item img {
+    filter: blur(2px);
+  }
+}
+
+@media (max-width: 576px) {
+  .portfolio-item img {
+    filter: blur(2px);
+  }
+}
+
